@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 
 ### 📝 **Is your pull request related to an issue? Please describe.**
 A clear and concise description of the issue this PR is addressing. For example: "This PR fixes the bug where users cannot submit the form after clicking the submit button."
